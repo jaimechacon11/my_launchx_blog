@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jaimechacon11.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizae en Launch X</title>
+      <link>https://jaimechacon11.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaimechacon11.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! Quiero contarte todo lo que he aprendido en este camino:
+ Python Lógica de programación Jupyter Notebooks Command Line Git GitHub Html Cs Js Node Js  Gracias por su atención.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un Desarrollader de software</title>
       <link>https://jaimechacon11.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
@@ -16,16 +26,6 @@
       <description>Usa este post para anotar tus expectativas de la misión.
 ¡Hola! Para mi la cultura de un profesional del software se basa en lo siguiente:
  Respeto Confianza Honestidad Dedicación  Esto es muy importante para mí.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jaimechacon11.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jaimechacon11.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>title: &amp;ldquo;Mi ruta de aprendizae en Launch X&amp;rdquo; date: 2022-03-01 description: &amp;lsquo;Te voy a contar mi travesía en Launch-X de Innovacción Virtual&amp;rsquo; Hola! Quiero contarte todo lo que he aprendido en este camino:
- Python Lógica de programación Jupyter Notebooks Command Line Git GitHub Html Cs Js Node Js  Gracias por su atención.</description>
     </item>
     
   </channel>
